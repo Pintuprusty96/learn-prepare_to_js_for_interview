@@ -27,3 +27,14 @@ console.log(booleanisloggedIn)
 let sumNumber = 99;
 let stringnumber = toString(sumNumber)
 console.log(typeof stringnumber)
+/*---------------------OPERATION-----------------------*/
+
+let value = 3;
+let negValue = +value;
+console.log(negValue)
+
+let str1= "8";
+let str2 = str1
+console.log(str1);
+
+console.log(-true);
